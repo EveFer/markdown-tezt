@@ -62,5 +62,9 @@ ___
 <!--Check-->
 * [X] Task 1
 * [X] Task 2
-* [] Task 1
-* [] Task 3
+* [ ] Task 1
+* [ ] Task 3
+
+@EveFer :smiley: :+1:
+
+
